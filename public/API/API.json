@@ -1,0 +1,28 @@
+{
+    "productos": [
+        {
+            "nombre": "Manzana",
+            "emoji": "🍎",
+            "descripcion": "Una manzana roja y jugosa.",
+            "precio": "$1.00"
+        },
+        {
+            "nombre": "Plátano",
+            "emoji": "🍌",
+            "descripcion": "Un plátano maduro y dulce.",
+            "precio": "$0.50"
+        },
+        {
+            "nombre": "Zanahoria",
+            "emoji": "🥕",
+            "descripcion": "Una zanahoria fresca y crujiente.",
+            "precio": "$0.30"
+        },
+        {
+            "nombre": "Sandía",
+            "emoji": "🍉",
+            "descripcion": "Una sandía refrescante y dulce.",
+            "precio": "$3.00"
+        }
+    ]
+}
