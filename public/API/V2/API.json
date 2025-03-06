@@ -1,0 +1,48 @@
+{
+    "catalogo": {
+        "natural": [
+            {
+                "nombre": "Cereza",
+                "emoji": "🍒",
+                "descripcion": "Unas cerezas frescas y jugosas.",
+                "precio": "$3.50"
+            },
+            {
+                "nombre": "Fresa",
+                "emoji": "🍓",
+                "descripcion": "Una fresa roja y dulce.",
+                "precio": "$1.50"
+            },
+            {
+                "nombre": "Manzana",
+                "emoji": "🍎",
+                "descripcion": "Una manzana roja y jugosa.",
+                "precio": "$1.00"
+            },
+            {
+                "nombre": "Melón",
+                "emoji": "🍈",
+                "descripcion": "Un melón jugoso y dulce.",
+                "precio": "$2.50"
+            },
+            {
+                "nombre": "Plátano",
+                "emoji": "🍌",
+                "descripcion": "Un plátano maduro y dulce.",
+                "precio": "$0.50"
+            },
+            {
+                "nombre": "Sandía",
+                "emoji": "🍉",
+                "descripcion": "Una sandía refrescante y dulce.",
+                "precio": "$3.00"
+            },
+            {
+                "nombre": "Uvas",
+                "emoji": "🍇",
+                "descripcion": "Un racimo de uvas frescas.",
+                "precio": "$2.00"
+            }
+        ]
+    }
+}

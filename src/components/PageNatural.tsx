@@ -6,9 +6,9 @@ const PageNatural: React.FC = () => {
     const [productos, setProductos] = useState([]);
 
     useEffect(() => {
-        fetch('API/API.json')
+        fetch('API/V2/API.json')
             .then(response => response.json())
-            .then(data => setProductos(data.productos))
+            .then(data => setProductos(data.catalogo.natural))
             .catch(error => console.error('Error fetching products:', error));
     }, []);
 
